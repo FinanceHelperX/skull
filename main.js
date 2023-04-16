@@ -179,7 +179,7 @@ function copy(){
       if(account==undefined){
         ref_addr="";
       }
-      dom.value = "https://financehelperx.github.io/littlepanda.github.io/?ref="+ref_addr;
+      dom.value = "https://financehelperx.github.io/skull/?ref="+ref_addr;
   
       document.body.appendChild(dom);
       dom.select();
